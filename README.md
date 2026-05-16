@@ -12,6 +12,3 @@ A deep learning project to identify writers based on handwriting analysis using 
 | --- | --- |
 | Train Accuracy | 9X.X% |
 | Validation Accuracy | 8X.X% |
-
-## 🖥️ Preview
-*(ضعي هنا سكرين شوت أو صورة متحركة GIF للـ GUI وهي تعمل)*
